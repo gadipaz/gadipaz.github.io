@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gadipaz.github.io/atom.xml" rel="self"/>
   <link href="http://gadipaz.github.io/"/>
-  <updated>2014-06-01T22:14:59+03:00</updated>
+  <updated>2014-06-16T10:13:06+03:00</updated>
   <id>http://gadipaz.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://gadipaz.github.io/blog/2014/06/16/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2014-06-16T10:07:47+03:00</updated>
+    <id>http://gadipaz.github.io/blog/2014/06/16/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
